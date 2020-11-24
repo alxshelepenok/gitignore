@@ -8,6 +8,9 @@ pids
 *.seed
 .DS_Store
 
+# Editors
+.vscode
+
 # Build
 target
 
