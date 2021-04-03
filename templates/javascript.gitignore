@@ -9,6 +9,7 @@ pids
 .DS_Store
 
 # Editors
+.idea
 .vscode
 
 # Build
@@ -33,5 +34,5 @@ build/Release
 node_modules
 
 # Only apps should have lockfiles
-package-lock.json
+yarn.lock
 npm-shrinkwrap.json
