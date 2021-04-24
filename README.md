@@ -1,12 +1,17 @@
-# gitignore
+<h1 align="center">
+    <img alt="gitignore" title="gitignore" src="https://github.com/alxshelepenok/gitignore/blob/master/documents/images/logo.svg" width="128"> </br>
+    Gitignore
+</h1>
 
-A collection of useful .gitignore templates.
+<h4 align="center">
+  A collection of useful .gitignore templates.
+</h4>
 
 # License
 
 The MIT License (MIT)
 
-Copyright (c) 2020 Alexander Shelepenok
+Copyright (c) 2020-2021 Alexander Shelepenok
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
