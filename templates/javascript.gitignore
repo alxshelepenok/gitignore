@@ -1,38 +1,38 @@
-# Logs.
+# Logs
 logs
 *.log
 
-# Runtime data.
+# Runtime data
 pids
 *.pid
 *.seed
 .DS_Store
 
-# Editors.
+# Editors
 .idea
 .vscode
 
-# Build.
+# Build directory
 target
 
-# Directory for instrumented libs.
+# Directory for instrumented libs
 lib-cov
 
-# Coverage directory used by tools like istanbul.
+# Coverage directory used by tools like istanbul
 coverage
 
-# Node-waf configuration.
+# Node-waf configuration
 .lock-wscript
 
-# Eslint cache.
+# Eslint cache
 .eslintcache
 
-# Compiled binary addons.
+# Compiled binary addons
 build/Release
 
-# Dependency directory.
+# Dependency directory
 node_modules
 
-# Only apps should have lockfiles.
+# Only apps should have lockfiles
 yarn.lock
 npm-shrinkwrap.json

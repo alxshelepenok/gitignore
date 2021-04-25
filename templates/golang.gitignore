@@ -1,30 +1,30 @@
-# Logs.
+# Logs
 logs
 *.log
 
-# Runtime data.
+# Runtime data
 pids
 *.pid
 *.seed
 .DS_Store
 
-# Editors.
+# Editors
 .idea
 .vscode
 
-# Binaries for programs and plugins.
+# Binaries for programs and plugins
 *.exe
 *.exe~
 *.dll
 *.so
 *.dylib
 
-# Test binary, built with `go test -c`.
+# Test binary, built with `go test -c`
 *.test
 
-# Output of the go coverage tool, specifically when used with LiteIDE.
+# Output of the go coverage tool, specifically when used with LiteIDE
 *.out
 
-# Dependency directories.
+# Dependency directories
 vendor/
 Godeps/
