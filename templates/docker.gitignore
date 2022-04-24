@@ -1,13 +1,13 @@
-# Logs
+# logs
 logs
 *.log
 
-# Runtime data
+# runtime data
 pids
 *.pid
 *.seed
 .DS_Store
 
-# Editors
+# editors
 .idea
 .vscode
