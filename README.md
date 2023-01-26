@@ -1,11 +1,6 @@
-<h1 align="center">
-    <img alt="gitignore" title="gitignore" src="https://github.com/alxshelepenok/gitignore/blob/master/documents/images/logo.svg" width="128"> </br>
-    Gitignore
-</h1>
+# gitignore
 
-<h4 align="center">
-  A collection of useful .gitignore templates.
-</h4>
+A collection of useful .gitignore templates.
 
 # License
 
